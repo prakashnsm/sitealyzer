@@ -1,6 +1,6 @@
 <?php
 
-// (C) 2012 hush2 <hushywushy@gmail.com>
+// (C) 2014 prakashsts <prakash.nsm@gmail.com>
 
 set_include_path('../' . PATH_SEPARATOR . get_include_path());
 
