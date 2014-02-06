@@ -1,10 +1,10 @@
-# SiteAlyzer #
+# SiteAnalyzer #
 
 SiteAlyzer uncovers the 'technologies' used on websites. It detects content management systems, web shops, web servers, JavaScript frameworks, analytics tools and many more.
 
 ### Live Site ###
 
-http://sitealyzer.pagodabox.com/
+http://siteanalyzer.gopagoda.com/
 
 ### ToDo ###
 
